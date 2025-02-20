@@ -14,15 +14,6 @@ Para resolver esse problema, Paradiso propõe a criação de um portfólio virtu
 
 Dessa forma, cineastas independentes, amadores e aspirantes podem construir um repertório sólido e acessível, facilitando sua inserção e crescimento no setor audiovisual.
 
-## 🛠️ Desenvolvimento e Implementação
-Durante a implementação do projeto, foram enfrentados desafios como curto prazo de desenvolvimento e equipe reduzida, o que limitou algumas funcionalidades. Para viabilizar a proposta dentro do tempo disponível, optou-se por:
-
-- 🔹 Utilizar um mock do banco de dados em JSON, simulando as informações dos cineastas e seus projetos.
-- 🔹 Criar um mini servidor em Node.js para gerenciar a movimentação dos conteúdos, permitindo interações básicas.
-- 🔹 Desenvolver uma interface intuitiva e responsiva, garantindo que os usuários pudessem navegar e acessar os portfólios de forma eficiente.
-  
-Embora o projeto não tenha sido integrado a uma API real, ele apresenta um conceito sólido e escalável, que pode ser expandido no futuro para incluir funcionalidades mais avançadas, como autenticação, interação social e integração com bancos de dados robustos.
-
 ## 🚀 Conclusão
 Paradiso não é apenas um projeto acadêmico, mas uma proposta para preencher uma lacuna no mercado audiovisual. Ao criar um espaço dedicado a cineastas independentes, a plataforma visa proporcionar mais visibilidade, reconhecimento e conexões para aqueles que buscam oportunidades na indústria do cinema.
 
