@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<DocumentationFile>../Paradiso.API/Config/Comments/Paradiso.API.Domain.xml</DocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Azure.Storage.Blobs" Version="12.16.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+	</ItemGroup>
+
+</Project>
